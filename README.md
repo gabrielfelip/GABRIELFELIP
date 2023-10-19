@@ -1,5 +1,5 @@
 ### Olá 🙋🏻‍♂️
-Sejam bem vindos! Me chamo Gabriel, atualmente estou me formando em análise e desenvolvimento de sistemas pela FATEC - SJC.
+Sejam bem vindos! Me chamo Gabriel, atualmente estou cursando análise e desenvolvimento de sistemas pela FATEC - SJC.
 
 [![LinedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-silva--cs/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
