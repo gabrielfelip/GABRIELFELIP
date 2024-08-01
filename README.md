@@ -23,6 +23,18 @@ Sejam bem vindos! Atualmente estou cursando análise e desenvolvimento de sistem
 
 
 
+-----
+| Cursos | Instituição | Certificados |
+| -------|-------------|--------------|
+| (POO) com Python | DIO | [Certificado](https://hermes.dio.me/certificates/JN0ZQMAL.pdf)
+| Lógica de Programação Essencial | DIO | [Certificado](https://hermes.dio.me/certificates/TZZ2PK87.pdf)
+| Python | Hashtag Treinamentos | [Certificado](https://dlp.hashtagtreinamentos.com/certificado/download)
+| Suporte técnico | Cousera + Google | [Certificado](https://www.coursera.org/account/accomplishments/verify/CDJRXJDQN2GV)
+| Redes de Computadores | DIO | [Certificado](https://hermes.dio.me/certificates/TXNSYJSU.pdf)
+
+
+
+
 
 
 
