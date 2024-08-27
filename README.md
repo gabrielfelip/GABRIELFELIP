@@ -33,8 +33,8 @@ Sejam bem vindos! Atualmente estou cursando análise e desenvolvimento de sistem
 | Redes de Computadores | DIO | [Certificado](https://hermes.dio.me/certificates/TXNSYJSU.pdf)
 
 
-
-
-
+<div align="left">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=gabrielfelip&theme=tokyonight" alt="Layout with last medium posts"  />
+</div>
 
 
