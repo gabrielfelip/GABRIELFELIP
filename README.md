@@ -22,6 +22,9 @@ Sejam bem vindos! Atualmente estou cursando análise e desenvolvimento de sistem
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 
+<img src="https://raw.githubusercontent.com/gabrielfelip/gabrielfelip/output/snake.svg" alt="Snake animation" />
+
+
 
 -----
 | Cursos | Instituição | Certificados |
