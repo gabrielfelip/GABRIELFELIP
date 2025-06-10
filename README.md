@@ -1,4 +1,4 @@
-### Olá, seja bem-vindo(a)! 👋 Eu sou o Gabriel Felype!
+### Olá, seja bem-vindo(a)! 👋 Eu sou o Gabriel Felipe!
 
 Estudante de Análise e Desenvolvimento de Sistemas (4º Semestre) na FATEC - SJC.
 Sou um Desenvolvedor Fullstack em formação, focado em construir soluções web eficientes com **React**, **Node.js** e **TypeScript**. Sempre em busca de novos desafios e aprendizado contínuo.
