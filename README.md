@@ -54,11 +54,11 @@ Sou um Desenvolvedor Fullstack em formação, focado em construir soluções web
 
 | Cursos                   | Instituição       | Certificados                             |
 | :----------------------- | :---------------- | :--------------------------------------- |
-| (POO) com Python         | DIO               | [Certificado](https://hermes.dio.me/certificates/JN0ZQMAL.pdf) |
-| Lógica de Programação Essencial | DIO               | [Certificado](https://hermes.dio.me/certificates/TZZ2PK87.pdf) |
-| Python                   | Hashtag Treinamentos | [Certificado](https://dlp.hashtagtreinamentos.com/certificado/download) |
 | Suporte técnico          | Coursera + Google | [Certificado](https://www.coursera.org/account/accomplishments/verify/CDJRXJDQN2GV) |
-| Redes de Computadores    | DIO               | [Certificado](https://hermes.dio.me/certificates/TXNSYJSU.pdf) |
+| Software e Hardware    | Fundação Bradesco   | [Certificado]([https://hermes.dio.me/certificates/TXNSYJSU.pdf](https://drive.google.com/file/d/1MC_ZgoH9Bd9qscuIp14yriKKqY39T2cC/view?usp=sharing)) |
+| IoT - Internet of Things    | CISCO          | [Certificado]([https://hermes.dio.me/certificates/TXNSYJSU.pdf](https://drive.google.com/file/d/1SJ8C2TEUw7IvG5t7THHg4hfusIwXsJUV/view?usp=sharing)) |
+| Redes e Sistemas    | Ada Tech               | [Certificado]([https://hermes.dio.me/certificates/TXNSYJSU.pdf](https://drive.google.com/file/d/1oTdEAAyBQPHZX4C4I9YoSLSDRREfNGv3/view?usp=drive_link)) |
+| Cloud Computing    | Ada Tech               | [Certificado]([https://hermes.dio.me/certificates/TXNSYJSU.pdf](https://drive.google.com/file/d/1dXaoCMI8tbdWzdtSlIElGOVRytAm9WgJ/view?usp=drive_link)) |
 
 ---
 
