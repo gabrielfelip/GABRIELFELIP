@@ -1,4 +1,4 @@
-### Olá, seja bem-vindo(a)! 👋 Eu sou o Gabriel Felipe!
+### Olá, seja bem-vindo(a)! 👋 Eu sou o Gabriel!
 
 Estudante de Análise e Desenvolvimento de Sistemas (4º Semestre) na FATEC - SJC.
 Sou um Desenvolvedor Fullstack em formação, focado em construir soluções web eficientes com **React**, **Node.js** e **TypeScript**. Sempre em busca de novos desafios e aprendizado contínuo.
@@ -41,7 +41,8 @@ Sou um Desenvolvedor Fullstack em formação, focado em construir soluções web
 ### 📊 Minhas Estatísticas no GitHub
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielfelip&layout=compact&theme=dark&hide_title=true)
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielfelip&show_icons=true&theme=transparent)
+
 
 ### 🎓 Formação e Certificações
 
