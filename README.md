@@ -1,9 +1,13 @@
 ### Olá, seja bem-vindo(a)! 👋 Eu sou o Gabriel!
 
-Estudante de Análise e Desenvolvimento de Sistemas (4º Semestre) na FATEC - SJC.
+Estudante de Análise e Desenvolvimento de Sistemas (5º Semestre) na FATEC - SJC.
 Sou um Desenvolvedor Fullstack em formação, focado em construir soluções web eficientes com **React**, **Node.js** e **TypeScript**. Sempre em busca de novos desafios e aprendizado contínuo.
 
 ---
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gabrielfelip&&theme=modern-lilac)](https://github.com/gabrielfelip/github-readme-activity-graph)
+
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielfelip&show_icons=true&theme=cobalt)
 
 ###  Conecte-se Comigo!
 
@@ -37,12 +41,6 @@ Sou um Desenvolvedor Fullstack em formação, focado em construir soluções web
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-
-### 📊 Minhas Estatísticas no GitHub
-
-
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielfelip&show_icons=true&theme=transparent)
-
 
 ### 🎓 Formação e Certificações
 
