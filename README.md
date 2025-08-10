@@ -5,7 +5,7 @@ Sou um Desenvolvedor Fullstack em formação, focado em construir soluções web
 
 ---
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gabrielfelip&&theme=modern-lilac)](https://github.com/gabrielfelip/github-readme-activity-graph)
+[![Gabriel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gabrielfelip&&theme=modern-lilac)](https://github.com/gabrielfelip/github-readme-activity-graph)
 
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielfelip&show_icons=true&theme=cobalt)
 
